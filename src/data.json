@@ -1,0 +1,185 @@
+{
+  "marvel":{
+    "Characters":[
+      {
+        "img1":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
+        "title1":"hulk",
+        "button1":"click"
+      },
+
+      {
+        "img1" :"https://terrigen-cdn-dev.marvel.com/content/prod/1x/soc-spider-man-crouch-pose.jpg",
+        "title1":"spiderman",
+        "button1":"click"
+      },
+
+      {
+        "img1":"https://cdn0-production-images-kly.akamaized.net/gpNVn90JX-03mUiBTnc52woYw6U=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/946748/original/029523200_1438762512-iron_man_games.jpg",
+        "title1":"ironman",
+        "button1":"click"
+      },
+
+      {
+        "img1":"https://lumiere-a.akamaihd.net/v1/images/h_blackpanther_mobile_19754_57fe2288.jpeg?region=0,0,640,480",
+        "title1":"black",
+        "button1":"click"
+      },
+
+      {
+        "img1":"https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png",
+        "title1":"deadpool",
+        "button1":"click"
+      },
+
+      {
+        "img1":"https://terrigen-cdn-dev.marvel.com/content/prod/2x/102_gza1510_comp_v002.1032_0.jpg",
+        "title1":"groot",
+        "button1":"click"
+      },
+      
+      {
+        "img1":"https://cdn.pocket-lint.com/r/s/1201x/assets/images/156404-tv-news-feature-every-marvel-movie-to-watch-before-loki-debuts-on-disney-image10-cxtvhsprn8.png",
+        "title1":"loki",
+        "button1":"click"
+      },
+
+      {
+       "img1":"https://cdna.artstation.com/p/assets/images/images/023/624/714/large/ty-romsa-img-0210.jpg?1612712163",
+       "title1":"iceman",
+       "button1":"click"
+      },
+
+      {
+       "img1":"https://media.vogue.fr/photos/5c7ed01e08858f0dc0e2d287/2:3/w_2560%2Cc_limit/capmarvel.jpg",
+       "title1":"captain",
+       "button1":"click"
+      },
+
+      {
+       "img1":"https://i.pinimg.com/736x/9a/d7/a5/9ad7a55e9c742f96f25739d620bc1866.jpg",
+       "title1":"spider",
+       "button1":"click"
+      }
+    ],
+
+    "Comics":[
+
+  {
+    "img2":"https://i.pinimg.com/736x/9a/d7/a5/9ad7a55e9c742f96f25739d620bc1866.jpg",
+    "title2":"spider",
+    "button2":"click"
+  },
+  {
+    "img2":"https://wallpapercave.com/wp/wp5260625.jpg",
+    "title2":"ironwomen",
+    "button2":"click"
+  },
+  {
+    "img2":"https://i.pinimg.com/736x/41/cd/24/41cd24abf2070bcfd1f551385ba71349.jpg",
+    "title2":"scarlet",
+    "button2":"click"
+  },
+  {
+    "img2":"https://preview.redd.it/ro5ik26mijr71.png?width=640&crop=smart&auto=webp&s=081dd43def4942d3b5ccd44fbb8dfdbcc831475a",
+    "title2":"carld",
+    "button2":"click"
+  },
+  {
+    "img2":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/10/Cable-of-the-X-Men-coming-to-battle-with-guns.jpg",
+    "title2":"cable",
+    "button2":"click"
+  },
+  {
+    "img2":"https://i.annihil.us/u/prod/marvel/i/mg/f/03/5d4055598a466/clean.jpg",
+    "title2":"aero",
+    "button2":"click"
+  },
+  {
+    "img2":"https://upload.wikimedia.org/wikipedia/en/c/cb/AbigailBrand.png",
+    "title2":"abigali",
+    "button2":"click"
+  },
+  {
+    "img2":"https://cdn0-production-images-kly.akamaized.net/gpNVn90JX-03mUiBTnc52woYw6U=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/946748/original/029523200_1438762512-iron_man_games.jpg",
+    "title2":"ironman",
+    "button2":"click"
+  
+  },
+  {
+    "img2":"https://lumiere-a.akamaihd.net/v1/images/h_blackpanther_mobile_19754_57fe2288.jpeg?region=0,0,640,480",
+    "title2":"black",
+    "button2":"click"
+  },
+
+  {
+    "img2":"https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png",
+    "title2":"deadpool",
+    "button2":"click"
+  }
+
+],
+"Stories":[
+  {
+    "img3":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
+    "title3":"hulk",
+    "button3":"click"
+  },
+
+  {
+    "img3" :"https://terrigen-cdn-dev.marvel.com/content/prod/1x/soc-spider-man-crouch-pose.jpg",
+    "title3":"spiderman",
+    "button3":"click"
+  },
+
+  {
+    "img3":"https://cdn0-production-images-kly.akamaized.net/gpNVn90JX-03mUiBTnc52woYw6U=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/946748/original/029523200_1438762512-iron_man_games.jpg",
+    "title3":"ironman",
+    "button1":"click"
+  },
+
+  {
+    "img3":"https://lumiere-a.akamaihd.net/v1/images/h_blackpanther_mobile_19754_57fe2288.jpeg?region=0,0,640,480",
+    "title3":"black",
+    "button3":"click"
+  },
+
+  {
+    "img3":"https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png",
+    "title3":"deadpool",
+    "button3":"click"
+  },
+
+  {
+    "img3":"https://terrigen-cdn-dev.marvel.com/content/prod/2x/102_gza1510_comp_v002.1032_0.jpg",
+    "title3":"groot",
+    "button3":"click"
+  },
+  
+  {
+    "img3":"https://cdn.pocket-lint.com/r/s/1201x/assets/images/156404-tv-news-feature-every-marvel-movie-to-watch-before-loki-debuts-on-disney-image10-cxtvhsprn8.png",
+    "title3":"loki",
+    "button3":"click"
+  },
+
+  {
+   "img3":"https://cdna.artstation.com/p/assets/images/images/023/624/714/large/ty-romsa-img-0210.jpg?1612712163",
+   "title3":"iceman",
+   "button3":"click"
+  },
+
+  {
+   "img3":"https://media.vogue.fr/photos/5c7ed01e08858f0dc0e2d287/2:3/w_2560%2Cc_limit/capmarvel.jpg",
+   "title3":"captain",
+   "button3":"click"
+  },
+
+  {
+   "img3":"https://i.pinimg.com/736x/9a/d7/a5/9ad7a55e9c742f96f25739d620bc1866.jpg",
+   "title3":"spider",
+   "button3":"click"
+  }
+]
+
+
+}
+}
